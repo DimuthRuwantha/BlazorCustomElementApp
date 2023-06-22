@@ -1,0 +1,7 @@
+.vs/*
+.bin
+BlazorCustomElementApp/bin/
+BlazorCustomElementApp/obj/
+CustomElementWasmApp/bin/
+CustomElementWasmApp/obj/
+hello-world/public/_framework/

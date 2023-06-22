@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\repos\BlazorCustomElementApp\BlazorCustomElementApp\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-02-21T14:53:34.0777590Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
